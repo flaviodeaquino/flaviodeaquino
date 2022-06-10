@@ -12,6 +12,7 @@
 ### Personal curiosities:
 * I speak Portuguese and english and a girlfriend that speak spanish;
 * I was in a comfortable position as a Leader in a large maintenance engineering team but decided to change careers and become a developer;
+* I have a dog, she is so cute and has the name Lola;
 * I'm a gamer;
 * I love running but my left knee is hurt;
 * I do physical therapy to heal my knee;
