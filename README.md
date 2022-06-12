@@ -3,7 +3,7 @@
 ## Techs
 * Languages: HTML5, CSS, JavaScript
 * Tools: VSCode, GitHub
-* Studying: HTML5, CSS, JavaScript
+* Studying: HTML5, CSS, JavaScript, MySQL
 * Next studies: Sass, React, Redux
 
 ## Academy
