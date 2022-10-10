@@ -1,9 +1,9 @@
 # Front-end Developer
 
 ## Techs
-* Languages: HTML5, CSS, JavaScript
+* Languages: HTML5, CSS, JavaScript, Java
 * Tools: VSCode, GitHub
-* Studying: HTML5, CSS, JavaScript, MySQL
+* Studying: HTML5, CSS, JavaScript, Java
 * Next studies: Sass, React, Redux
 
 ## Academy
@@ -15,6 +15,5 @@
 * I have a dog, she is so cute and has the name Lola;
 * I'm a gamer;
 * I love running but my left knee is hurt;
-* I do physical therapy to heal my knee;
 * I love classic rock, especially Creedence Clearwater Revival and Rolling Stones;
 * But I listen classical music to relax (I love too).
