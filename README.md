@@ -1,10 +1,10 @@
 # Front-end Developer
 
 ## Techs
-* Languages: HTML5, CSS, JavaScript, Java
-* Tools: VSCode, GitHub
-* Studying: HTML5, CSS, JavaScript, Java
-* Next studies: Sass, React, Redux
+* Languages: HTML5, CSS, JavaScript, Java, Ruby on Rails
+* Tools: VSCode, IntelliJ, GitHub
+* Studying: HTML5, CSS, JavaScript, Java, Ruby on Rails
+* Next studies: Java, Ruby on Rails
 
 ## Academy
 * 2014 - Mechanical Engineer at Federal University of Uberlândia
@@ -16,5 +16,6 @@
 * I'm a gamer;
 * I love sports like soccer and basketball;
 * I love running but my left knee is hurt;
-* I love classic rock, especially Creedence Clearwater Revival and Rolling Stones;
-* But I listen classical music to relax (I love too).
+* I love classic rock, especially Creedence Clearwater Revival and Rolling Stones and MPB - Popular Brazilian Music;
+* But I listen classical music to relax (I love too);
+* I love listening podcasts.
