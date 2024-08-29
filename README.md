@@ -13,7 +13,7 @@
 * I speak Portuguese and english and a girlfriend that speak spanish;
 * I was in a comfortable position as a Leader in a large maintenance engineering team but decided to change careers and become a developer;
 * I have a dog, she is so cute and has the name Lola;
-* I'm a gamer;
+* I'm a gamer. Playing Valorant, Football Manager, Project Zomboid and more;
 * I love sports like soccer and basketball;
 * I love running but my left knee is hurt;
 * I love classic rock, especially Creedence Clearwater Revival and Rolling Stones and MPB - Popular Brazilian Music;
